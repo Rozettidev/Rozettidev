@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Lourenzo Rozetti Oliveira, tenho 16 anos e sou de Minas Gerais. Sou Desenvolvedor Full-Stack com experiência em JavaScript, Node.js, Python e TypeScript, aplicando essas linguagens em projetos de aplicações web, APIs e integrações. Tenho como objetivo criar soluções escaláveis, seguras e intuitivas, sempre com foco em boas práticas e eficiência. Aberto a novos desafios e oportunidades para crescer como profissional de engenharia de software e contribuir com impacto real em equipes de tecnologia.
+Me chamo João Lourenzo, tenho 16 anos e sou de Minas Gerais. Sou Desenvolvedor Full-Stack com experiência em JavaScript, Node.js, Python e TypeScript, aplicando essas linguagens em projetos de aplicações web, APIs e integrações. Tenho como objetivo criar soluções escaláveis, seguras e intuitivas, sempre com foco em boas práticas e eficiência. Aberto a novos desafios e oportunidades para crescer como profissional de engenharia de software e contribuir com impacto real em equipes de tecnologia.
 
 ---
 
